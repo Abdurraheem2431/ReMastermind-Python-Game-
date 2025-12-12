@@ -2,7 +2,7 @@
 
 # Name : ReMastermind
 # Date : January 28th, 2024
-# Developers :  Abdu-R-Raheem Ishfaq, Sakib Uddin, Nikolas Vlachos
+# Developers :  Abdu-R-Raheem Ishfaq, Sakib Uddin, Nikolas Vlachos, Babinson Batala
 # Description : ReMastermind is a revamped version of the original
 #               game "Mastermind". This program simulates the game Mastermind
 #               but with the additional feature of pygame. The user
